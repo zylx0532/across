@@ -23,6 +23,12 @@ bbr.sh
 - Description: Auto install latest kernel for TCP BBR
 - Intro: https://teddysun.com/489.html
 
+kms.sh
+======
+
+- Description: Auto install KMS Server
+- Intro: https://teddysun.com/530.html
+
 bench.sh
 ========
 
@@ -75,10 +81,10 @@ unixbench.sh
 - Description: Auto install unixbench and test script
 - Intro: https://teddysun.com/245.html
 
-pptp.sh(Deprecated)
+pptp.sh(Deprecated, DO NOT USE)
 ===================
 
 - Description: Auto Install PPTP for CentOS 6
 - Intro: https://teddysun.com/134.html
 
-Copyright (C) 2013-2017 Teddysun <i@teddysun.com>
+Copyright (C) 2013-2019 Teddysun <i@teddysun.com>
